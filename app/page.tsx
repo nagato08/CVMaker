@@ -149,7 +149,7 @@ export default function Home() {
               </h1>
 
               <button className="btn btn-primary" onClick={() => (document.getElementById('my_modal_3') as HTMLDialogElement).showModal()}>
-                Prévisualiser
+                Voir
                 <Eye className="w-4" />
               </button>
             </div>
